@@ -32,6 +32,7 @@ text.style.paddingTop = "35px";
 text.style.maxWidth = "300px";
 text.style.fontSize = "17px";
 text.style.color = "black";
+text.style.textAlign = "center";
 
 
 
